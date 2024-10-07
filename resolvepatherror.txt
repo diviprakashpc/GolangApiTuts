@@ -1,0 +1,14 @@
+Make a main.go file in the parent folder.
+
+And do go work init.
+go use './submodulepath'
+
+And 
+
+To import a package inside a module 'X'
+Do 
+import(
+    "X/package_name"
+)
+
+That's it . No need for specific import name.
